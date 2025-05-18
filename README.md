@@ -8,12 +8,14 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://t.me/Shirinov_m" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30"/>
+  <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="margin-left: 8px; vertical-align: middle;">Telegram</span>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+  <br><br>
+  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="margin-left: 8px; vertical-align: middle;">Email</span>
   </a>
 </p>
 
