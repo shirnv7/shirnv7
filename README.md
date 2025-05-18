@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
-## 📫 Contact Me
+📫 **Contact Me**
 
 <p align="left">
   <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
