@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Asp .net Core**
 
-- 💬 Ask me about **Flutter** ,**NestJs**,**Data Analytics and ML in  Python**
+- 💬 Ask me about **Java** ,**Javascript**,**Database**,**Telegram Bot**
 
 - 📫 How to reach me **<https://t.me/Shirinov_m>** or **<shirinovmuhammad11@gmail.com>**
 
