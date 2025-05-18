@@ -8,13 +8,6 @@
 - 📫 How to reach me **<https://t.me/Shirinov_m>** or **<shirinovmuhammad11@gmail.com>**
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-
-
 ```text
 🌞 Morning                663 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 🌆 Daytime                1245 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
@@ -43,15 +36,6 @@ Jupyter Notebook         5 repos             █░░░░░░░░░░�
 C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
-
-
- Last Updated on 11/05/2025 18:48:56 UTC
-<!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
