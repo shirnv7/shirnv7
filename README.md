@@ -1,18 +1,31 @@
 <h1 align="center">Hi, I'm Shirinov Muhammad</h1>
-<h3 align="center"> FullStack developer </h3>
+<h3 align="center">🚀 FullStack Developer</h3>
 
-- 🌱 I’m currently learning **Asp .net Core**
+- 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **Java** ,**Javascript**,**Database**,**Telegram Bot**
+- 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
-- 📫 How to reach me **<https://t.me/Shirinov_m>** or **<shirinovmuhammad11@gmail.com>**
+- 📫 Contact me:
+  <p align="left">
+    <a href="https://t.me/Shirinov_m" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="25" height="25"/>
+      @Shirinov_m
+    </a>
+    <br/>
+    <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="25" height="25"/>
+      shirinovmuhammad11@gmail.com
+    </a>
+  </p>
 
+---
 
 ```text
-🌞 Morning                663 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌆 Daytime                1245 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌃 Evening                1442 commits        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-🌙 Night                  1106 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+📊 Daily Coding Time Distribution:
+🌞 Morning    663 commits   ████░░░░░░░░░░░░░   14.88%
+🌆 Daytime    1245 commits  ███████░░░░░░░░░░   27.94%
+🌃 Evening    1442 commits  ████████░░░░░░░░░   32.36%
+🌙 Night      1106 commits  ██████░░░░░░░░░░░   24.82%
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -26,7 +39,6 @@ Saturday                 744 commits         ████░░░░░░░�
 Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 ```
 
-**I Mostly Code in Dart** 
 
 ```text
 Dart                     42 repos            ██████████░░░░░░░░░░░░░░░   42.00 % 
@@ -37,41 +49,11 @@ C++                      3 repos             █░░░░░░░░░░�
 ```
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <h3 align="left">Backend Developement:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrr"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Frontend Languages:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
-
-
-<h3 align="left">Databases:</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
-
-
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
-  
-</p>
+🔙 Backend Development:
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40" alt="NestJS" /> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS" /> </p>
+🎨 Frontend Development:
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> </p>
+🗄️ Databases:
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /> </p>
+⚙️ Tools:
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" /> </p>
