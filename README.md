@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
-## 📫 Contact Me
-
+# 📫 Contact Me
 <p align="left">
   <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
