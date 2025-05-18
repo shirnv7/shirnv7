@@ -5,18 +5,17 @@
 
 - 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
-- 📫 Contact me:
-  <p align="left">
-    <a href="https://t.me/Shirinov_m" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="25" height="25"/>
-      @Shirinov_m
-    </a>
-    <br/>
-    <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="25" height="25"/>
-      shirinovmuhammad11@gmail.com
-    </a>
-  </p>
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://t.me/Shirinov_m" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+  </a>
+</p>
 
 ---
 
