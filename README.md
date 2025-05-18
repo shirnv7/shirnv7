@@ -10,12 +10,12 @@
 <p align="left">
   <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">Telegram</span>
+    <span style="margin-left: 8px; vertical-align: middle;">Shirinov_M</span>
   </a>
   <br><br>
   <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">Email</span>
+    <span style="margin-left: 8px; vertical-align: middle;">muhammadshirinov11@gmail.com</span>
   </a>
 </p>
 
