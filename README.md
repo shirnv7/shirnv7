@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shirinov Muhammad</h1>
-<h3 align="center">🚀 FullStack Developer</h3>
+<h3 align="center">🚀 Backend Developer</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
