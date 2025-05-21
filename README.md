@@ -18,7 +18,7 @@
     <span style="margin-left: 8px; vertical-align: middle;">muhammadshirinov11@gmail.com</span>
   </a>
 <br></br>
-<a href="https://www.linkedin.com/in/muhammad-shirinov" target="_blank" style="text-decoration: none;">
+<a href="[https://www.linkedin.com/in/muhammad-shirinov](https://www.linkedin.com/in/muhammad-shirinov-1a5b35366/)" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
 </a>
