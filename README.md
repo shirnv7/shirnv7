@@ -1,20 +1,7 @@
-<style>
-  .shimmer {
-    animation: shimmer 2s infinite;
-    background: linear-gradient(90deg, #f0f0f0 25%, #c0c0c0 50%, #f0f0f0 75%);
-    background-size: 400% 100%;
-    color: transparent;
-    -webkit-background-clip: text;
-    background-clip: text;
-  }
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" alt="Developer GIF" width="500"/>
+</p>
 
-  @keyframes shimmer {
-    0% { background-position: -400% 0; }
-    100% { background-position: 400% 0; }
-  }
-</style>
-
-<h3 class="shimmer">🚀 Backend Developer</h3>
 
 
 📫 **Contact Me**
