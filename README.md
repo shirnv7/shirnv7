@@ -1,7 +1,26 @@
-<h1 align="center">Hi, I'm Shirinov Muhammad</h1>
-<h3 align="center">🚀 Backend Developer</h3>
+<h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
+<h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **ASP.NET Core** 🚀
+- 💬 Ask me about **Java**, **JavaScript**, **Databases**, and **Telegram Bots**!
+
+---
+### 📬 Connect with Me:
+
+<p align="left">
+  <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" height="40" style="vertical-align: middle;"/>
+    <span style="margin-left: 8px; vertical-align: middle; font-weight: bold; color: #0088cc;">Message on Telegram</span>
+  </a>
+  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" style="vertical-align: middle;"/>
+    <span style="margin-left: 8px; vertical-align: middle; font-weight: bold; color: #D44638;">Send Email</span>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
+    <span style="margin-left: 8px; vertical-align: middle; font-weight: bold; color: #0A66C2;">My LinkedIn Profile</span>
+  </a>
+</p>
 
 - 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
