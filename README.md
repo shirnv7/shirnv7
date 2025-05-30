@@ -30,24 +30,24 @@
 ### 🛠️ Tillar va vositalar:
 #### 🔙 Backendni ishlab chiqish:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Java - Mening asosiy backend tilim" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" title="Spring Framework - Kuchli API'larni yaratish" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50" title="ASP.NET Core - Hozirda o'rganish va o'rganish!" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" title="Node.js - Tez va kengaytiriladigan backendlar uchun" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" title="Express.js - Node.js veb-ramkasi" style="transition: transform 0.2s ease;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Java - Mening asosiy backend tilim" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" title="Spring Framework - Kuchli API'larni yaratish" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50" title="ASP.NET Core - Hozirda o'rganish va o'rganish!" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" title="Node.js - Tez va kengaytiriladigan backendlar uchun" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" title="Express.js - Node.js veb-ramkasi" />
 </p>
 
 #### 🌐 Frontend (Asosiy ko'nikmalar):
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" title="HTML5 - Veb-tuzilma" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript - Veb-interaktivlik" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript - Kengaytiriladigan JavaScript" style="transition: transform 0.2s ease;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" title="HTML5 - Veb-tuzilma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript - Veb-interaktivlik" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript - Kengaytiriladigan JavaScript" />
 </p>
 
 #### 🗄️ Ma'lumotlar bazalari:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL - Relatsion ma'lumotlar bazasi" style="transition: transform 0.2s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB - NoSQL ma'lumotlar bazasi" style="transition: transform 0.2s ease;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL - Relatsion ma'lumotlar bazasi" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB - NoSQL ma'lumotlar bazasi" />
 </p>
 
 ---
