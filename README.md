@@ -1,22 +1,20 @@
 <style>
-  .icon-hover:hover {
-    transform: rotate(360deg);
-    transition: transform 0.5s;
+  .shimmer {
+    animation: shimmer 2s infinite;
+    background: linear-gradient(90deg, #f0f0f0 25%, #c0c0c0 50%, #f0f0f0 75%);
+    background-size: 400% 100%;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+
+  @keyframes shimmer {
+    0% { background-position: -400% 0; }
+    100% { background-position: 400% 0; }
   }
 </style>
 
-<p align="left">
-  <a href="https://t.me/Shirinov_m" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" class="icon-hover"/>
-  </a>
-  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" class="icon-hover"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" class="icon-hover"/>
-  </a>
-</p>
-
+<h3 class="shimmer">🚀 Backend Developer</h3>
 
 
 📫 **Contact Me**
