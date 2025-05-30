@@ -25,6 +25,27 @@
   <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
 </a>
 </p>
+---
+---
+### 📊 My GitHub Activity:
+
+<p align="center">
+  <a href="https://github.com/ShirinovMuhammad">
+    <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shirinov Muhammad GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShirinovMuhammad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv7&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShirinovMuhammad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirnv7&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 ### 🛠️ Languages and Tools:
@@ -48,25 +69,4 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL - Relational Database"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB - NoSQL Database"/>
-</p>
-
----
-### 📊 My GitHub Activity:
-
-<p align="center">
-  <a href="https://github.com/ShirinovMuhammad">
-    <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shirinov Muhammad GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShirinovMuhammad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv7&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShirinovMuhammad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirnv7&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
 </p>
