@@ -70,31 +70,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinovMuhammad&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
-
-
-<h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
-<h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
-
-- 🌱 I’m currently learning **ASP.NET Core** 🚀
-- 💬 Ask me about **Java**, **JavaScript**, **Databases**, and **Telegram Bots**!
-
-
-- 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
-
-📫 **Contact Me**
-
-<p align="left">
-  <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">Shirinov_M</span>
-  </a>
-  <br><br>
-  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">muhammadshirinov11@gmail.com</span>
-  </a>
-<br></br>
-<a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank" style="text-decoration: none;">
+lank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
 </a>
