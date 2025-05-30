@@ -70,8 +70,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinovMuhammad&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
-lank" style="text-decoration: none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
-  <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
-</a>
-</p>
