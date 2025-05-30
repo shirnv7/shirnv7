@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ---
@@ -60,17 +62,49 @@
 
 ---
 
-## 🎯 Recent Projects
+## 🎯 Featured Projects
 
-### 🤖 Telegram Bot Suite
-- **Description**: A collection of AI-powered Telegram bots for various purposes
-- **Tech**: Node.js, Telegraf.js, MongoDB
-- **Features**: NLP processing, payment integration, admin dashboard
+### 🤖 AI Telegram Bot Suite
+<p align="left">
+  <a href="https://github.com/shirnv7/telegram-ai-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shirnv7&repo=telegram-ai-bot&theme=radical" />
+  </a>
+</p>
+- **Description**: Advanced Telegram bots with NLP capabilities
+- **Tech Stack**: Node.js, Telegraf.js, MongoDB, TensorFlow.js
+- **Features**: 
+  - Natural language processing
+  - Payment gateway integration
+  - Admin dashboard
+  - Multi-language support
 
-### 🏦 Banking Microservice
-- **Description**: Core banking system with transaction processing
-- **Tech**: Java, Spring Boot, PostgreSQL
-- **Features**: JWT auth, event sourcing, Kafka integration
+### 🏦 Banking Microservice Architecture
+<p align="left">
+  <a href="https://github.com/shirnv7/banking-microservice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shirnv7&repo=banking-microservice&theme=radical" />
+  </a>
+</p>
+- **Description**: Distributed banking system core
+- **Tech Stack**: Java, Spring Boot, PostgreSQL, Kafka
+- **Features**:
+  - JWT authentication
+  - Event sourcing pattern
+  - Transaction processing
+  - Audit logging
+
+### ☁️ Cloud Native Starter
+<p align="left">
+  <a href="https://github.com/shirnv7/cloud-native-starter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shirnv7&repo=cloud-native-starter&theme=radical" />
+  </a>
+</p>
+- **Description**: Kubernetes-ready .NET Core template
+- **Tech Stack**: ASP.NET Core, Docker, Kubernetes, Helm
+- **Features**:
+  - CI/CD pipeline setup
+  - Health checks
+  - Metrics monitoring
+  - Secret management
 
 ---
 
@@ -86,6 +120,9 @@
   <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/shirnv7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
@@ -96,4 +133,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirnv7&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/shirnv7/shirnv7/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
