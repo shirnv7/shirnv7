@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" alt="Developer GIF" width="500"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" alt="Neon">
 </p>
+
 
 
 📫 **Contact Me**
