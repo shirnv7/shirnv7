@@ -87,46 +87,53 @@
 ## 🎯 Featured Projects
 
 ### 🤖 AI Telegram Bot Suite
-<p align="left">
-  <a href="https://github.com/shirnv7/telegram-ai-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shirnv7&repo=telegram-ai-bot&theme=radical" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Project Status">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-- **Description**: Advanced Telegram bots with NLP capabilities
-- **Tech Stack**: Node.js, Telegraf.js, MongoDB, TensorFlow.js
-- **Features**: 
-  - Natural language processing
-  - Payment gateway integration
-  - Admin dashboard
-  - Multi-language support
+
+**Description**: Advanced Telegram bots with NLP capabilities  
+**Tech Stack**: Node.js, Telegraf.js, MongoDB, TensorFlow.js  
+**Features**:  
+- Natural language processing  
+- Payment gateway integration  
+- Admin dashboard  
+- Multi-language support  
+
+---
 
 ### 🏦 Banking Microservice Architecture
-<p align="left">
-  <a href="https://github.com/shirnv7/banking-microservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shirnv7&repo=banking-microservice&theme=radical" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Project Status">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
 </p>
-- **Description**: Distributed banking system core
-- **Tech Stack**: Java, Spring Boot, PostgreSQL, Kafka
-- **Features**:
-  - JWT authentication
-  - Event sourcing pattern
-  - Transaction processing
-  - Audit logging
+
+**Description**: Distributed banking system core  
+**Tech Stack**: Java, Spring Boot, PostgreSQL, Kafka  
+**Features**:  
+- JWT authentication  
+- Event sourcing pattern  
+- Transaction processing  
+- Audit logging  
+
+---
 
 ### ☁️ Cloud Native Starter
-<p align="left">
-  <a href="https://github.com/shirnv7/cloud-native-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shirnv7&repo=cloud-native-starter&theme=radical" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Planned-blue?style=flat-square" alt="Project Status">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
-- **Description**: Kubernetes-ready .NET Core template
-- **Tech Stack**: ASP.NET Core, Docker, Kubernetes, Helm
-- **Features**:
-  - CI/CD pipeline setup
-  - Health checks
-  - Metrics monitoring
-  - Secret management
+
+**Description**: Kubernetes-ready .NET Core template  
+**Tech Stack**: ASP.NET Core, Docker, Kubernetes, Helm  
+**Features**:  
+- CI/CD pipeline setup  
+- Health checks  
+- Metrics monitoring  
+- Secret management  
 
 ---
 
