@@ -1,7 +1,25 @@
 <h1 align="center">Hi, I'm Shirinov Muhammad</h1>
 <h3 align="center">🚀 Backend Developer</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=42f58d&center=true&vCenter=true&lines=Hi%2C+I+am+Shirinov+Muhammad!;I+am+a+Backend+Developer;I+love+Java+and+ASP.NET+Core" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" alt="Neon">
+</p>
+
+---
+
+<!-- existing contact section here -->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shirinov-muhammad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirinov-muhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 - 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
