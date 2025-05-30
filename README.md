@@ -1,29 +1,29 @@
-<h1 align="center">Hi there, I'm Shirinov Muhammad! 👋</h1>
-<h3 align="center">🚀 Backend Developer | Building Robust Solutions with Code 💡</h3>
+<h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
+<h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJjYTM4MWNlMjIyYjI0ZDUxNGM2ZTNkZDRhNmM0MmUyYTQwYjY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMk9n7h6k169sWw437/giphy.gif" width="100%" alt="Welcome animation - replace with your own!"/>
-</p>
+- 🌱 I’m currently learning **ASP.NET Core** 🚀
+- 💬 Ask me about **Java**, **JavaScript**, **Databases**, and **Telegram Bots**!
 
-- 🌱 Currently diving deep into **ASP.NET Core** to master scalable backend systems.
-- 💬 Feel free to ask me anything about **Java (Spring/Jakarta EE)**, **JavaScript (Node.js/Express)**, **Database Design & Optimization**, and **Telegram Bot Development**.
 
----
-### 📬 Let's Connect!
+- 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
+
+📫 **Contact Me**
 
 <p align="left">
-  <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 25px; padding: 10px 20px; border-radius: 25px; background-color: #0088cc; color: white; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="25" height="25" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>Ping Me on Telegram!</span>
+  <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="margin-left: 8px; vertical-align: middle;">Shirinov_M</span>
   </a>
-  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 25px; padding: 10px 20px; border-radius: 25px; background-color: #D44638; color: white; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="25" height="25" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>Shoot an Email!</span>
+  <br><br>
+  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="margin-left: 8px; vertical-align: middle;">muhammadshirinov11@gmail.com</span>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; border-radius: 25px; background-color: #0A66C2; color: white; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25" style="vertical-align: middle; margin-right: 8px;" />
-    <span>Connect on LinkedIn</span>
-  </a>
+<br></br>
+<a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
+  <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
+</a>
 </p>
 
 ---
