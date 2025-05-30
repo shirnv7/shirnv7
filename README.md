@@ -25,8 +25,9 @@
   <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
 </a>
 </p>
+
 ---
----
+
 ### 📊 My GitHub Activity:
 
 <p align="center">
