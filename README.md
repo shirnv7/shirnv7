@@ -1,4 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Shirinov Muhammad Portfolio</title>
 <style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #121212;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
   .shimmer {
     animation: shimmer 2s infinite;
     background: linear-gradient(90deg, #f0f0f0 25%, #c0c0c0 50%, #f0f0f0 75%);
@@ -6,106 +24,86 @@
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
+    font-size: 2.5em;
+    font-weight: bold;
   }
-
   @keyframes shimmer {
     0% { background-position: -400% 0; }
     100% { background-position: 400% 0; }
   }
+  .info {
+    margin-top: 20px;
+    line-height: 1.6;
+    font-size: 1.1em;
+  }
+  .links a {
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: #00bcd4;
+    font-weight: 500;
+    transition: transform 0.3s ease;
+  }
+  .links a:hover {
+    transform: scale(1.1);
+  }
+  .section {
+    margin-top: 40px;
+  }
+  .tools img {
+    margin: 10px;
+    transition: transform 0.3s ease;
+  }
+  .tools img:hover {
+    transform: scale(1.2);
+  }
 </style>
-
-<h3 class="shimmer">🚀 Backend Developer</h3>
-
-
-📫 **Contact Me**
-
-<p align="left">
-  <a href="https://t.me/Shirinov_m" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">Shirinov_M</span>
-  </a>
-  <br><br>
-  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">muhammadshirinov11@gmail.com</span>
-  </a>
-<br></br>
-<a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
-  <span style="margin-left: 8px; vertical-align: middle;">Shirinov Muhammad</span>
-</a>
-</p>
-
----
-
-```text
-📊 Daily Coding Time Distribution:
-🌞 Morning    000 commits  ░░░░░░░░░░░░░░░░░   00.00%
-🌆 Daytime    000 commits  ░░░░░░░░░░░░░░░░░   00.00%
-🌃 Evening    000 commits  ░░░░░░░░░░░░░░░░░   00.00%
-🌙 Night      000 commits  ░░░░░░░░░░░░░░░░░   00.00%
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-```text
-Java                    0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-OOP                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-PostgresSql             0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Jakarta EE              0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-C++                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
----
-### 🛠️ Languages and Tools:
-
-#### 🔙 Backend Development:
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-</p>
-
-#### 🌐 Frontend:
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-
-#### 🗄️ Databases:
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
+</head>
+<body>
+<div class="container">
+  <h1 class="shimmer">Muhammad Shirinov</h1>
+  <h3 class="shimmer">🚀 Backend Developer</h3>
+  
+  <div class="info">
+    <p>🎓 Talaba, innovatsion fikrli dasturchi</p>
+    <p>🌐 Asosiy yo'nalishlar: Java, Spring, Express.js, va Node.js</p>
+  </div>
+  
+  <div class="section links">
+    <a href="https://t.me/Shirinov_m" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="Telegram"/> Telegram
+    </a>
+    <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" alt="Email"/> Email
+    </a>
+    <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn"/> LinkedIn
+    </a>
+  </div>
+  
+  <div class="section">
+    <h3>🛠️ Languages and Tools</h3>
+    <div class="tools">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+      </a>
+      <a href="https://spring.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+      </a>
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+      </a>
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+      </a>
+    </div>
+  </div>
+</div>
+</body>
+</html>
