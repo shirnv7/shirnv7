@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" alt="Neon">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shirinov-muhammad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 
