@@ -1,3 +1,25 @@
+<!-- Animated Header with Firework Effects -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%8E%89%F0%9F%94%A5+SHIRINOV+MUHAMMAD+%F0%9F%94%A5%F0%9F%8E%89" alt="Animated Name" />
+  
+  <!-- Animated Subtitle with Rocket and Computer -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1500&color=00FF00&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Senior+Backend+Developer+%7C+%F0%9F%92%BB+Architecting+Scalable+Systems+%F0%9F%92%BB" alt="Animated Title" />
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/8IKmvvU.gif" width="100%">
+</div>
+
+<!-- Animated Typing Bio -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F7FF&width=600&lines=Crafting+high-performance+backend+systems;Specializing+in+Java+%26+.NET+Core;Building+AI-powered+solutions;Open-source+contributor+%26+mentor" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Rest of your existing content... -->
+
 <h1 align="center">✨ Hi, I'm Shirinov Muhammad! ✨</h1>
 <h3 align="center">🚀 Senior Backend Developer | Architecting Scalable Systems 💻</h3>
 
