@@ -1,22 +1,9 @@
-<style>
-  .icon-hover:hover {
-    transform: rotate(360deg);
-    transition: transform 0.5s;
-  }
-</style>
+<h1 align="center">Hi, I'm Shirinov Muhammad</h1>
+<h3 align="center">🚀 Backend Developer</h3>
 
-<p align="left">
-  <a href="https://t.me/Shirinov_m" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" class="icon-hover"/>
-  </a>
-  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" class="icon-hover"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" class="icon-hover"/>
-  </a>
-</p>
+- 🌱 I’m currently learning **ASP.NET Core**
 
+- 💬 Ask me about **Java**, **JavaScript**, **Databases**, **Telegram Bots**
 
 📫 **Contact Me**
 
@@ -39,33 +26,33 @@
 
 ---
 
-```text
+text
 📊 Daily Coding Time Distribution:
 🌞 Morning    000 commits  ░░░░░░░░░░░░░░░░░   00.00%
 🌆 Daytime    000 commits  ░░░░░░░░░░░░░░░░░   00.00%
 🌃 Evening    000 commits  ░░░░░░░░░░░░░░░░░   00.00%
 🌙 Night      000 commits  ░░░░░░░░░░░░░░░░░   00.00%
-```
+
 📅 **I'm Most Productive on Saturday** 
 
-```text
+text
 Monday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Tuesday                  000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Wednesday                000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
+Sunday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 
-```text
+
+text
 Java                    0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OOP                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 PostgresSql             0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Jakarta EE              0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-C++                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
+C++                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
 ---
 ### 🛠️ Languages and Tools:
 
