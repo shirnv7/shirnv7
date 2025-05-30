@@ -55,18 +55,18 @@
 
 <p align="center">
   <a href="https://github.com/ShirinovMuhammad">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShirinovMuhammad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shirinov Muhammad GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shirinov Muhammad GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShirinovMuhammad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirinovMuhammad&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv7&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShirinovMuhammad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinovMuhammad&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirnv7&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
