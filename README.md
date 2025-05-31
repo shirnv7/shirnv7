@@ -2,6 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=header&text=Shirinov%20Muhammad&fontSize=30" width="100%"/>
 </div>
 
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=fff" width="100%"/>
+</div>
+
+<h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
+
+<!-- Your content here -->
+
+<!-- Waving Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
+
 <h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
 
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
