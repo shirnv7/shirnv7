@@ -3,15 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=fff" width="100%"/>
 </div>
 
-<h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontSize=20&fontAlignY=40" width="100%">
 </div>
 
-
-<!-- Your content here -->
 
 <!-- Waving Footer -->
 <div align="center">
