@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
+
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
@@ -106,10 +107,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 <!-- Waving Footer -->
