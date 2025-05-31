@@ -20,37 +20,24 @@
 
 ### 🔙 Backend Development
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
 </p>
-
-<style>
-  .tech-icon {
-    display: inline-block;
-    margin: 8px;
-    border-radius: 18px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    transition: transform 0.3s;
-  }
-  .tech-icon:hover {
-    transform: scale(1.1);
-  }
-</style>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
 </p>
 
 ### 🛠️ DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" />
 </p>
 
 ---
