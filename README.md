@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=999999&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
