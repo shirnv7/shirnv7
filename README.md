@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
 
-<p style="font-size: 28px;">Bu h1 kabi katta matn</p>
+<p style="font-size: 28;">Bu h1 kabi katta matn</p>
 
 
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
