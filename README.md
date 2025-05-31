@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
 <!-- Main Animated Header --
 <div align="center">
-  <!-- Animated Name with Fireworks --
+  <!-- Animated Name with Fireworks -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%8E%89%F0%9F%94%A5+SHIRINOV+MUHAMMAD+%F0%9F%94%A5%F0%9F%8E%89" alt="Animated Name" />
   
   <!-- Animated Title --
