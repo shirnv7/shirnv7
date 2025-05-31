@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-
 <!-- Venom Capsule (Static Gradient) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=ffffff&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
