@@ -124,7 +124,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
-![](under-construction.gif)
 
 <!-- Waving Footer -->
 <div align="center">
