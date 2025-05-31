@@ -160,12 +160,12 @@
 
 ---
 
-<!-- Alternative Profile Cards 
+<!-- Alternative Profile Cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<!-- Alternative Snake -->
+<!-- Alternative Snake --
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
