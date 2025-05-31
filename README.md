@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=999999&fontSize=24&fontAlignY=45&animation=twinkling" width="90%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=777777&fontSize=24&fontAlignY=45&animation=twinkling" width="90%">
 </div>
 
 
