@@ -10,8 +10,8 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shirnv7?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" height = "28" />
+  <img src="https://img.shields.io/github/followers/shirnv7?label=Followers&style=flat&color=blue" alt="GitHub followers" height = "28" />
 </p>
 
 <!-- Waving Footer -->
