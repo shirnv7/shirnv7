@@ -126,5 +126,5 @@
 
 <!-- Waving Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=60&section=footer" width="100%"/>
 </div>
