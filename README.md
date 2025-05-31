@@ -1,7 +1,9 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
+
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi, I'm Shirinov Muhammad!" src="./assets/gh-readme-header.png" /></a></p>
 
 <!-- Venom Capsule (Static Gradient) -->
 <div align="center">
