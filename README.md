@@ -124,6 +124,8 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
+![](under-construction.gif)
+
 <!-- Waving Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=60&section=footer" width="100%"/>
