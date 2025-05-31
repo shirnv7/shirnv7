@@ -1,4 +1,5 @@
-**Hi, I'm Shirinov Muhammad!**
+<h1>Hi, I'm Shirinov Muhammad!</h1>
+
 **🚀 Backend Developer | Crafting code to transform the world 💡**
 
 <!-- Profile Stats -->
