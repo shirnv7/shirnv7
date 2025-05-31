@@ -20,10 +20,10 @@
 
 ### 🔙 Backend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
+  <a href="#"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square&labelColor=121212&logoWidth=30" style="width: 80px; height: 80px; border-radius: 20px; margin: 10px; object-fit: contain; padding: 10px; background: #121212; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a>
 </p>
 
 <style>
