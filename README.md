@@ -169,3 +169,41 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+---
+
+<!-- Animated Header Section -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=SHIRINOV+MUHAMMAD" alt="Animated Name" />
+  </h1>
+  
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=1500&color=00A8FF&center=true&vCenter=true&width=500&lines=Senior+Backend+Developer;Systems+Architect;.NET+Specialist" alt="Animated Title" />
+  </h3>
+  
+  <!-- Profile Stats -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/shirnv7?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  </p>
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/jtCJ3ha.gif" width="100%">
+</div>
+
+<!-- Profile Details Section -->
+<div align="center">
+  
+  graph LR
+    A[Contact] --> B[📧 muhammadshirinov11@gmail.com]
+    A --> C[📱 Telegram: @Shirinov_M]
+    A --> D[💼 LinkedIn: Muhammad Shirinov]
+    
+    E[Skills] --> F[Java/Spring]
+    E --> G[.NET Core]
+    E --> H[Node.js]
+    E --> I[Database Design]
+</div><!-- GitHub Stats Section --><div align="center"> <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical" width="400"></td> <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv7&theme=radical" width="400"></td> </tr> <tr> <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirnv7&layout=compact&theme=radical" width="100%"></td> </tr> </table> </div><!-- Snake Animation Section --><div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake-dark.svg"> <img src="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div><!-- Footer --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/> </div> 
