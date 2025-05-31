@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=header&text=Shirinov%20Muhammad&fontSize=30" width="100%"/>
+</div>
+
 <h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
 
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
