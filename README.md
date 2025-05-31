@@ -20,11 +20,24 @@
 
 ### 🔙 Backend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" alt="Spring" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=24&labelColor=121212&label=" height="60" width="60" />
 </p>
+
+<style>
+  .tech-icon {
+    display: inline-block;
+    margin: 8px;
+    border-radius: 18px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s;
+  }
+  .tech-icon:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 ### 🗄️ Databases
 <p align="center">
