@@ -1,24 +1,5 @@
 <h1 align="center">Hi, I'm Shirinov Muhammad!</h1>
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
-<!-- Main Animated Header --
-<div align="center">
-  <!-- Animated Name with Fireworks -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%8E%89%F0%9F%94%A5+SHIRINOV+MUHAMMAD+%F0%9F%94%A5%F0%9F%8E%89" alt="Animated Name" />
-  
-  <!-- Animated Title --
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1500&color=00FF00&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Senior+Backend+Developer+%7C+%F0%9F%92%BB+Systems+Architect+%F0%9F%92%BB" alt="Animated Title" />
-</div>
-
-<!-- Animated Divider --
-<div align="center">
-  <img src="https://i.imgur.com/jtCJ3ha.gif" width="100%">
-</div>
-
-<!-- Animated Bio --
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F7FF&width=600&lines=Building+scalable+backend+systems;Java+%7C+.NET+Core+%7C+Node.js+Specialist;AI+%26+Cloud+Enthusiast;Open-source+Contributor" alt="Typing Bio" />
-</p>
-
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
