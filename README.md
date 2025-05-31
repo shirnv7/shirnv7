@@ -6,6 +6,11 @@
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontSize=20&fontAlignY=40" width="100%">
+</div>
+
+
 <!-- Your content here -->
 
 <!-- Waving Footer -->
