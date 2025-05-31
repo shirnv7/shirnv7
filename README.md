@@ -5,6 +5,10 @@
 
 <h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
 
+<div align ="center">
+  <img src = "https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&textBg=false&fontColor=Black"/>
+</div>
+
 <!-- Your content here -->
 
 <!-- Waving Footer -->
