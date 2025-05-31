@@ -161,9 +161,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirnv7&theme=radical" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/shirnv7/shirnv7/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/shirnv7/shirnv7/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  </picture>
 </p>
