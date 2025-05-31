@@ -1,5 +1,5 @@
-** <h1 align="center">Hi, I'm Shirinov Muhammad!</h1> **
-<h3 align="center">🚀 Backend Developer | Crafting code to transform the world 💡</h3>
+**Hi, I'm Shirinov Muhammad!**
+**🚀 Backend Developer | Crafting code to transform the world 💡**
 
 <!-- Profile Stats -->
 <p align="center">
