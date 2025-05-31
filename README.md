@@ -160,7 +160,7 @@
 
 ---
 
-<!-- Alternative Profile Cards -->
+<!-- Alternative Profile Cards 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
