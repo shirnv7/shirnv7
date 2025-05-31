@@ -1,23 +1,17 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=999999&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
+<!-- Venom Capsule (Static Gradient) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=999999&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=ffffff&fontSize=24&fontAlignY=45" width="90%"/>
 </div>
-
 
 <!-- Waving Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=60&section=footer" width="100%"/>
 </div>
-
-<!-- Profile Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shirnv7?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-</p>
 
 ---
 
