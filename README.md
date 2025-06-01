@@ -47,33 +47,6 @@
   <code><img height="60" alt="aws" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 </p>
 
-## ☕ Java Ecosystem
-
-<p align="center">
-  <!-- Main Java Icon -->
-  <code><img height="80" alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-  
-  <!-- Java Version Badge -->
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
-</p>
-
-### 🛠️ Java Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" alt="Spring">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="28" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="28" alt="Hibernate">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="28" alt="Maven">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="28" alt="Gradle">
-</p>
-
-### 🧩 Java Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28" alt="JUnit">
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=&logoColor=white" height="28" alt="Mockito">
-  <img src="https://img.shields.io/badge/Lombok-000000?style=for-the-badge&logo=&logoColor=white" height="28" alt="Lombok">
-  <img src="https://img.shields.io/badge/Jackson-072B61?style=for-the-badge&logo=&logoColor=white" height="28" alt="Jackson">
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
