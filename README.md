@@ -102,18 +102,21 @@
 ---
 
 <div align="center">
-  <h3>Connect With Me</h3>
+  
+  ### Connect With Me
   
   <p align="center">
     <a href="https://t.me/Shirinov_m" target="_blank">
       <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram"></code>
     </a>
-    <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-      <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png" alt="Gmail"></code>
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-      <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="LinkedIn"></code>
-    </a>
+    <div align="center">
+  <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
+    <code><img height="60" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"></code>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
+    <code><img height="60" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"></code>
+  </a>
+</div>
   </p>
 
 ---
