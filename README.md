@@ -103,24 +103,19 @@
 
 
 
-### Connect with me
+### 🌐 Connect With Me
 
-<p align="center">
-  <!-- Telegram -->
+<div align="center">
   <a href="https://t.me/Shirinov_m" target="_blank">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/telegram.svg" alt="Telegram">
+    <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" width="60" alt="Telegram"/>
   </a>
-  
-  <!-- Gmail -->
   <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/gmail.svg" alt="Gmail">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60" alt="Gmail"/>
   </a>
-  
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/linkedin.svg" alt="LinkedIn">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
 ---
 
