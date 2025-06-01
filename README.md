@@ -81,7 +81,6 @@
 - Payment gateway integration  
 - Admin dashboard  
 
-</p>
 
 ---
 
