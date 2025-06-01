@@ -95,10 +95,10 @@
 
 <div align="center">
 
-### 🏦 Banking Microservice
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code> Java,
-<code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></code> Spring Boot,
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code> PostgreSQL
+## 🏦 Banking Microservice
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code> Java,
+<code><img height="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></code> Spring Boot,
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code> PostgreSQL
 </div>
 
 **Features**:  
