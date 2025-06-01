@@ -23,7 +23,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+<p align="center">
+  
+  ### 🛠️ Tech Stack 
+  
+</p>
 
 ### 🔙 Backend Development
 <p align="center">
