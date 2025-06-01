@@ -47,6 +47,33 @@
   <code><img height="60" alt="aws" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 </p>
 
+## ☕ Java Ecosystem
+
+<p align="center">
+  <!-- Main Java Icon -->
+  <code><img height="80" alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+  
+  <!-- Java Version Badge -->
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+</p>
+
+### 🛠️ Java Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" alt="Spring">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="28" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="28" alt="Hibernate">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="28" alt="Maven">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="28" alt="Gradle">
+</p>
+
+### 🧩 Java Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28" alt="JUnit">
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=&logoColor=white" height="28" alt="Mockito">
+  <img src="https://img.shields.io/badge/Lombok-000000?style=for-the-badge&logo=&logoColor=white" height="28" alt="Lombok">
+  <img src="https://img.shields.io/badge/Jackson-072B61?style=for-the-badge&logo=&logoColor=white" height="28" alt="Jackson">
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -70,13 +97,20 @@
 <div align="center">
 
 ### 🤖 AI Telegram Bot Suite
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logoWidth=20" height="28" alt="Status">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow">
+<div>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" height="28">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28">
+</div>
 
 **Description**: Advanced Telegram bots with NLP capabilities  
-**Tech Stack**: Node.js, Telegraf.js, MongoDB, TensorFlow.js  
+**Tech Stack**: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code> Node.js,
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code> TypeScript,
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code> MongoDB  
+
 **Features**:  
 - Natural language processing  
 - Payment gateway integration  
@@ -89,13 +123,20 @@
 <div align="center">
 
 ### 🏦 Banking Microservice
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="Java">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" alt="Spring">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28" alt="Kafka">
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28">
+</div>
 
 **Description**: Distributed banking system core  
-**Tech Stack**: Java, Spring Boot, PostgreSQL, Kafka  
+**Tech Stack**: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code> Java,
+<code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></code> Spring Boot,
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code> PostgreSQL  
+
 **Features**:  
 - JWT authentication  
 - Event sourcing pattern  
@@ -109,13 +150,13 @@
 
 <div align="center">
   <a href="https://t.me/Shirinov_m" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">
   </a>
   <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
 </div>
 
