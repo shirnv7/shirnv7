@@ -95,7 +95,6 @@
 - Event sourcing pattern  
 - Transaction processing  
 
-</div>
 
 ---
 
