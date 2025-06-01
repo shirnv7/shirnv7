@@ -93,7 +93,7 @@
 
 ---
 
-## 🏦 Banking Microservice
+### 🏦 Banking Microservice
 <p align="center">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code>
 <code><img height="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></code>
