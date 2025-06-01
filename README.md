@@ -115,19 +115,6 @@
       <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="LinkedIn"></code>
     </a>
   </p>
-  
-  <p align="center">
-    <a href="https://t.me/Shirinov_m" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28">
-    </a>
-    <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
-    </a>
-  </p>
-</div>
 
 ---
 
