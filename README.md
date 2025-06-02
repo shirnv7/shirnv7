@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/github/followers/shirnv7?label=Followers&style=flat&color=blue" alt="GitHub followers" height="25"/>
 </p>
 
+<!-- Waving Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=60&section=footer" width="100%"/>
+</div>
+
 ---
 
 ## 🌱 Current Focus
